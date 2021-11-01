@@ -57,6 +57,9 @@ In order to ensure that the Laravel community is welcoming to all, please review
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 #PHPの学習用（githubの接続がうまくいかない　SSHが不明的な感じになってる…）
+#引き続きPHPの試し用
+#Rubyとどう違うか確認中
+
 
 ## License
 
